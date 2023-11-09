@@ -1198,7 +1198,7 @@ var json_survey_status_1 = {
             "properties": {
                 "id": "80",
                 "StoreID": "116",
-                "surveystat": "pending"
+                "surveystat": "complete"
             },
             "geometry": {
                 "type": "Point",
@@ -1273,7 +1273,7 @@ var json_survey_status_1 = {
             "properties": {
                 "id": "85",
                 "StoreID": "102",
-                "surveystat": "pending"
+                "surveystat": "complete"
             },
             "geometry": {
                 "type": "Point",
@@ -1348,7 +1348,7 @@ var json_survey_status_1 = {
             "properties": {
                 "id": "90",
                 "StoreID": "93",
-                "surveystat": "pending"
+                "surveystat": "complete"
             },
             "geometry": {
                 "type": "Point",
@@ -1453,7 +1453,7 @@ var json_survey_status_1 = {
             "properties": {
                 "id": "97",
                 "StoreID": "62",
-                "surveystat": "pending"
+                "surveystat": "complete"
             },
             "geometry": {
                 "type": "Point",
@@ -1573,7 +1573,7 @@ var json_survey_status_1 = {
             "properties": {
                 "id": "105",
                 "StoreID": "36",
-                "surveystat": "pending"
+                "surveystat": "complete"
             },
             "geometry": {
                 "type": "Point",
