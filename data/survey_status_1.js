@@ -193,7 +193,7 @@ var json_survey_status_1 = {
             "properties": {
                 "id": "13",
                 "StoreID": "379",
-                "surveystat": "pending"
+                "surveystat": "complete"
             },
             "geometry": {
                 "type": "Point",
