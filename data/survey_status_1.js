@@ -2489,7 +2489,7 @@ var json_survey_status_1 = {
             "properties": {
                 "id": "330",
                 "StoreID": "01829-00001",
-                "surveystat": "pending"
+                "surveystat": "complete"
             },
             "geometry": {
                 "type": "Point",
